@@ -1,4 +1,4 @@
-![Example Image](records\2022-10-09-14_28_24.png)
+![Example Image](records/2022-10-09-14_28_24.png)
 
 # Symmetry
 
