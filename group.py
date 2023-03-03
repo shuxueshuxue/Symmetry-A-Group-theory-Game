@@ -252,7 +252,7 @@ class Group:
             sliced.complete_info()
         return sliced
 
-    def normal_series(self) -> (str, str):
+    def normal_series(self) -> tuple(str, str):
         series = "{e} ->"
         groups_in_series = []
         for order in range(2, int(self.order / 2) + 1):
